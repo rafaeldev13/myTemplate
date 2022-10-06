@@ -9,7 +9,7 @@
 
 ---
 
-### Ferramentas e tecnologias que utilizo:
+### Tools and technologies I use::
 
 <div>
   <img align="center" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
